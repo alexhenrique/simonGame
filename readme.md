@@ -1,1 +1,1 @@
-https://github.com/alexhenrique/simonGame/blob/master/assets/simon.png
+(https://github.com/alexhenrique/simonGame/blob/master/assets/simon.png)
